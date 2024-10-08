@@ -48,5 +48,5 @@ app.get('/students/list', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
 });
-
+//GET-req
 //http://localhost:3000/students/list
