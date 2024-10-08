@@ -64,4 +64,5 @@ app.listen(PORT, () => {
 });
 
 //node searchEmp.js
+//get-req
 // http://localhost:3000/employee?email=john@example.com.
