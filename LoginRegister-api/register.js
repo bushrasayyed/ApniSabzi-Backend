@@ -41,3 +41,6 @@ app.post('/register', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server running at http://localhost:${PORT}`);
 });
+
+
+http://localhost:3000/register
