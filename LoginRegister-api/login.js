@@ -42,3 +42,8 @@ app.listen(PORT, () => {
 });
 
 http://localhost:3000/login
+//JSON format
+// {
+//     "username": "admin",
+//     "password": "password1"
+// }
