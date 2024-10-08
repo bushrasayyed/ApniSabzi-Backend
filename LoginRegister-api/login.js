@@ -41,7 +41,7 @@ app.listen(PORT, () => {
     console.log(`Server running at http://localhost:${PORT}`);
 });
 
-http://localhost:3000/login
+//http://localhost:3000/login
 //JSON format
 // {
 //     "username": "admin",
