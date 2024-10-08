@@ -44,3 +44,6 @@ app.get('/employees', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server running at http://localhost:${PORT}`);
 });
+
+//Set the request type to GET.
+// Enter the URL: http://localhost:3000/employees
