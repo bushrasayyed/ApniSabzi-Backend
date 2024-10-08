@@ -59,3 +59,12 @@ app.listen(PORT, () => {
 
 //node insertEmp.js
 
+// Set the request type to POST.
+// Enter the URL: http://localhost:3000/add-employee
+// {
+//     "id": 1,
+//     "name": "John Doe",
+//     "email": "john@example.com"
+// }
+
+
