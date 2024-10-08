@@ -43,4 +43,10 @@ app.listen(PORT, () => {
 });
 
 
-http://localhost:3000/register
+
+//http://localhost:3000/register -post request 
+// {
+//     "username": "user1",
+//     "password": "password1"
+// }
+
