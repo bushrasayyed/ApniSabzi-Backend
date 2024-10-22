@@ -62,7 +62,7 @@ app.get('/employee', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server running at http://localhost:${PORT}`);
 });
-
+//Create db table with fields id,name,email 
 //node searchEmp.js
 //get-req
-// http://localhost:3000/employee?email=john@example.com.
+// http://localhost:3000/employee?email=john@example.com
